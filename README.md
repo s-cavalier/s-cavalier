@@ -1,5 +1,7 @@
-- @s-cavalier
-- Current Undergrad at UCSB studying Computer Science
+# s-cavalier
+- Bobby
+- Current Freshmen at UCSB studying Computer Science
+- Hoping to do big things
   
 
 <!---
