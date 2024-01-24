@@ -1,7 +1,7 @@
 # s-cavalier
-- Bobby
-- Current Freshmen at UCSB studying Computer Science
-- Hoping to do big things
+- Juan (Bobby) Chavez
+- Current Freshman at UCSB studying Computer Science
+- Hope to make something big one day.
   
 
 <!---
