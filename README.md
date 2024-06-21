@@ -1,7 +1,6 @@
 # s-cavalier
 - Juan (Bobby) Chavez
-- Current Freshman at UCSB studying Computer Science
-- Hope to make something big one day.
+- Current Sophomore at UCSB studying Computer Science
   
 
 <!---
