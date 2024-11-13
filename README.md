@@ -1,7 +1,6 @@
 # s-cavalier
 - Juan (Bobby) Chavez
 - CS @ UCSB
-- Hoping to (eventually!) develop something world-changing
   
 
 <!---
