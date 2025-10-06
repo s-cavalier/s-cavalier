@@ -2,9 +2,7 @@
 - Juan (Bobby) Chavez
 - CS @ UCSB
 - I like to make cool stuff
-- Really good at C++
-- Good at python
-- Solid with JS/TS/React
+- I know a lot of low-level stuff, but I can also spin up a full-stack system
   
 
 <!---
