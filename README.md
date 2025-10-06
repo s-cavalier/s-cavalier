@@ -1,6 +1,10 @@
-# s-cavalier
+ # s-cavalier
 - Juan (Bobby) Chavez
 - CS @ UCSB
+- I like to make cool stuff
+- Really good at C++
+- Good at python
+- Solid with JS/TS/React
   
 
 <!---
