@@ -1,8 +1,7 @@
  # s-cavalier
 - Juan (Bobby) Chavez
 - CS @ UCSB
-- I like to make cool stuff
-- I know a lot of low-level stuff, but I can also spin up a full-stack system
+- I like computers & math
   
 
 <!---
