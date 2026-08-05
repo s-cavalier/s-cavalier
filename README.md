@@ -2,6 +2,7 @@
 - Juan (Bobby) Chavez
 - CS @ UCSB
 - I like computers & math
+- Intern @ Tower Research Capital
   
 
 <!---
