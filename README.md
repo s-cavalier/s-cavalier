@@ -1,6 +1,6 @@
  # s-cavalier
 - Juan (Bobby) Chavez
-- CS @ UCSB
+- BS/MS in CS @ UCSB, 2023-2027
 - I like computers & math
 - prev Intern @ Tower Research Capital
   
